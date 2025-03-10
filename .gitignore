@@ -1,2 +1,8 @@
+#virtual environment
 .venv/
-documentation
+#initial documentation
+documentation/
+#pycache
+__pycache__
+rough.txt
+tran.py

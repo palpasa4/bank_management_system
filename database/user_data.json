@@ -1,0 +1,26 @@
+[
+    {
+        "cust_id": "AD-ac36361e",
+        "username": "admin",
+        "password": "adminpw",
+        "role": "admin"
+    },
+    {
+        "cust_id": "CUST-0f187bee",
+        "username": "shinchan",
+        "password": "shinchan",
+        "role": "user"
+    },
+    {
+        "cust_id": "CUST-75ce5649",
+        "username": "palpasa",
+        "password": "palpasa",
+        "role": "user"
+    },
+    {
+        "cust_id": "CUST-32757810",
+        "username": "new",
+        "password": "newpw",
+        "role": "user"
+    }
+]

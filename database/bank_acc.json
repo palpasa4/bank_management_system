@@ -1,0 +1,16 @@
+[
+    {
+        "bank_acc_id": "ACC-fdca547c",
+        "fullname": "Sinchan Yogashi",
+        "address": "New York",
+        "contact_no": "111",
+        "balance": 25750.0
+    },
+    {
+        "bank_acc_id": "ACC-e6c890a1",
+        "fullname": "new",
+        "address": "ad",
+        "contact_no": "sd",
+        "balance": 15500.0
+    }
+]
