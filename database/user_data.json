@@ -12,15 +12,15 @@
         "role": "user"
     },
     {
-        "cust_id": "CUST-75ce5649",
-        "username": "palpasa",
-        "password": "palpasa",
-        "role": "user"
-    },
-    {
         "cust_id": "CUST-32757810",
         "username": "new",
         "password": "newpw",
+        "role": "user"
+    },
+    {
+        "cust_id": "CUST-44fb79f3",
+        "username": "palpasa",
+        "password": "palpasapw",
         "role": "user"
     }
 ]
